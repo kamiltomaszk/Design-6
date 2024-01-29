@@ -1,10 +1,11 @@
 # Design-6
 ## Repository for Engineering Design VI
 This Repo will contain *various* projects from **Design 6**
+[Engineering Design VI Site](https://sites.google.com/view/ece322)
 > This is a blockquote
 
-`System.out.println("Hello World");`
-### Welcome to my Repository
+`print("Hello World")`
+### Engineering Design VI Projects
 Links to my projects
 1. Lab01
 2. Lab02
@@ -17,13 +18,12 @@ Links to my projects
 9. Lab09
 10. Lab10
 
-This is an **Unordered List**
+### What I have learned
+Anything interesting that I have learned from Engineering Design VI
 - First Item
 - Second Item
 - Third Item
 
 ---
-
-[Engineering Design VI Site](https://sites.google.com/view/ece322)
 
 ![Central Park](https://github.com/kamiltomaszk/Design-6/assets/95594092/d2710f85-8b9d-4e10-b9d0-c9d808efd124)
