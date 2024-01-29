@@ -1,7 +1,6 @@
 # Design-6
-## Repository for Engineering Design VI
+## Repository for [Engineering Design VI](https://sites.google.com/view/ece322)
 This Repo will contain *various* projects from **Design 6**
-[Engineering Design VI Site](https://sites.google.com/view/ece322)
 > This is a blockquote
 
 `print("Hello World")`
