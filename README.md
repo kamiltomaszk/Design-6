@@ -1,7 +1,7 @@
 # Design-6
 ## Repository for [Engineering Design VI](https://sites.google.com/view/ece322)
 This Repo will contain *various* projects from **Design 6**
-> This is a blockquote
+> If you know you can finish something in 2 minutes, do it right away.
 
 `print("Hello World")`
 ### Engineering Design VI Projects
@@ -19,8 +19,8 @@ Links to my projects (Links will be added as the projects are started)
 
 ### What I have learned
 Anything interesting that I have learned from Engineering Design VI
-- First Item
-- Second Item
+- Markdown
+- QR stands for 'Quick Response'
 - Third Item
 
 ---
