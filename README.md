@@ -1,7 +1,7 @@
 # Design-6
 ## Repository for [Engineering Design VI](https://sites.google.com/view/ece322)
 This Repo will contain *various* projects from **Design 6**
-> If you know you can finish something in 2 minutes, do it right away.
+> *If you know you can finish something in 2 minutes, do it right away.*
 
 `print("Hello World")`
 ### Engineering Design VI Projects
