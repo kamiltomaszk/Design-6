@@ -1,21 +1,25 @@
 # Design-6
 ## Repository for Engineering Design VI
-### Welcome to my Repository
 This Repo will contain *various* projects from **Design 6**
-
 > This is a blockquote
-
-This is an **Ordered List**
-1. First Item
-2. Second Item
-3. Third Item
+`System.out.println("Hello World");`
+### Welcome to my Repository
+Links to my projects
+1. Lab01
+2. Lab02
+3. Lab03
+4. Lab04
+5. Lab05
+6. Lab06
+7. Lab07
+8. Lab08
+9. Lab09
+10. Lab10
 
 This is an **Unordered List**
 - First Item
 - Second Item
 - Third Item
-
-`System.out.println("Hello World");`
 
 ---
 
