@@ -5,7 +5,7 @@ This Repo will contain *various* projects from **Design 6**
 
 `print("Hello World")`
 ### Engineering Design VI Projects
-Links to my projects
+Links to my projects (Links will be added as the projects are started)
 1. Lab01
 2. Lab02
 3. Lab03
