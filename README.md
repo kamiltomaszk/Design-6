@@ -15,10 +15,10 @@ This is an **Unordered List**
 - Second Item
 - Third Item
 
-`This is code`
+`System.out.println("Hello World");`
 
 ---
 
-[Google](https://www.google.com)
+[Engineering Design VI Site](https://sites.google.com/view/ece322)
 
 ![Central Park](https://github.com/kamiltomaszk/Design-6/assets/95594092/d2710f85-8b9d-4e10-b9d0-c9d808efd124)
