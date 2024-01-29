@@ -17,7 +17,7 @@ Links to my projects (Links will be added as the projects are started)
 9. Lab09
 10. Lab10
 
-Anything interesting that I have learned from Engineering Design VI
+### Anything interesting that I have learned from Engineering Design VI
 - Markdown
 - QR stands for 'Quick Response'
 - Third Item
