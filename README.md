@@ -1,11 +1,11 @@
 # Design-6
 ## Repository for [Engineering Design VI](https://sites.google.com/view/ece322)
 This Repo will contain *various* projects from **Design 6**
-> *"If you know you can finish something in 2 minutes, do it right away."*
+> "If you know you can finish something in 2 minutes, do it right away."
+> -Kevin Lu
 
 `print("Hello World")`
-### Engineering Design VI Projects
-Links to my projects (Links will be added as the projects are started)
+Links to my labs: 
 1. Lab01
 2. Lab02
 3. Lab03
