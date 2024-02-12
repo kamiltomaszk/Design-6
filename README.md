@@ -6,7 +6,7 @@ This Repo will contain *various* projects from **Design 6**
 
 `print("Hello World")`
 Links to my labs: 
-1. Lab01
+1. [Lab01](Lab01)
 2. Lab02
 3. Lab03
 4. Lab04
