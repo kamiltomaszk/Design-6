@@ -6,4 +6,22 @@ To start using VHDL, I followed the tutorial ['Getting Started With VHDL on Wind
 After installing GHDL and GTKWave, I ran my first 'Hello, World' using GHDL to make sure it was working correctly.
 
 ## Half Adder
+```
+$ ghdl -a ha.vhdl  
+$ ghdl -a ha_tb.vhdl  
+$ ghdl -e ha_tb  
+$ ghdl -r ha_tb --vcd=ha.vcd  
+ha_tb.vhdl:47:5:@5ns:(assertion error): Reached end of test  
+$ gtkwave ha.vcd  
+```
 ![](half_adder.png)
+
+## D Flip-Flop
+```
+$ ghdl -a dff.vhdl
+$ ghdl -a dff_tb.vhdl
+$ ghdl -e dff_tb
+$ ghdl -r dff_tb --vcd=dff.vcd
+$ gtkwave dff.vcd
+```
+![](d_flip_flop.png)
