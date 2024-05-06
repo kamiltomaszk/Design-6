@@ -6,4 +6,9 @@ $ sudo apt update
 $ pip3 install Pystache
 ```
 After installing the required packages, I ran hello-world.js, hello.js, and http.js.
+![](code1.png)
+![](code2.png)
+![](hello_world.png)
+![](hello.png)
+![](http.png)
 
