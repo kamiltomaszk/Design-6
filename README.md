@@ -12,7 +12,7 @@ Links to my labs:
 3. [Lab03](Lab03)
 4. Lab04
 5. [Lab05](Lab05)
-6. Lab06
+6. [Lab06](Lab06)
 7. Lab07
 8. Lab08
 9. Lab09
