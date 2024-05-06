@@ -5,10 +5,15 @@ I first installed Node.js through the [website](https://nodejs.org/en/download/)
 $ sudo apt update
 $ pip3 install Pystache
 ```
+## Node.js
 After installing the required packages, I ran hello-world.js, hello.js, and http.js.
 ![](code1.png)
 ![](code2.png)
 ![](hello_world.png)
 ![](hello.png)
 ![](http.png)
+
+## Pystache
+Lastly, I ran say_hello.py using Pystache.
+![](code3.png)
 
